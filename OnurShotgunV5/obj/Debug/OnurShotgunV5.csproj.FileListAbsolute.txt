@@ -1,0 +1,10 @@
+C:\Users\ou199\source\repos\OnurShotgunV5\OnurShotgunV5\bin\Debug\OnurShotgunV5.exe.config
+C:\Users\ou199\source\repos\OnurShotgunV5\OnurShotgunV5\bin\Debug\OnurShotgunV5.exe
+C:\Users\ou199\source\repos\OnurShotgunV5\OnurShotgunV5\bin\Debug\OnurShotgunV5.pdb
+C:\Users\ou199\source\repos\OnurShotgunV5\OnurShotgunV5\obj\Debug\OnurShotgunV5.csproj.AssemblyReference.cache
+C:\Users\ou199\source\repos\OnurShotgunV5\OnurShotgunV5\obj\Debug\OnurShotgunV5.frmShotgun.resources
+C:\Users\ou199\source\repos\OnurShotgunV5\OnurShotgunV5\obj\Debug\OnurShotgunV5.Properties.Resources.resources
+C:\Users\ou199\source\repos\OnurShotgunV5\OnurShotgunV5\obj\Debug\OnurShotgunV5.csproj.GenerateResource.cache
+C:\Users\ou199\source\repos\OnurShotgunV5\OnurShotgunV5\obj\Debug\OnurShotgunV5.csproj.CoreCompileInputs.cache
+C:\Users\ou199\source\repos\OnurShotgunV5\OnurShotgunV5\obj\Debug\OnurShotgunV5.exe
+C:\Users\ou199\source\repos\OnurShotgunV5\OnurShotgunV5\obj\Debug\OnurShotgunV5.pdb
